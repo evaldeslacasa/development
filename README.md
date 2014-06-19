@@ -1,4 +1,4 @@
-my-portlets
+development
 ===========
 
-Html fragments of a page to add functionality
+I group here all my projects, most of them web and java applications.
