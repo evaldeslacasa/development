@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+# This directory is supposed to be empty. 4
+# The purpose is testing that the application will still work fine
+# when no JSON files are passed as the argument folder.
